@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Media": true,
+    "Dashboard": true,
+    "Core": true,
+    "Menu": true,
+    "Translation": true
+}
